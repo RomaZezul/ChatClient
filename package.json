@@ -1,5 +1,5 @@
 {
-  "name": "ChatClient",
+  "name": "chat_client",
   "version": "1.0.0",
   "private": true,
   "scripts": {
